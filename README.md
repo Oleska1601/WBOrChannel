@@ -17,7 +17,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/Oleska1601/WBOrChannel"
+    or "github.com/Oleska1601/WBOrChannel"
 )
 
 func main() {
